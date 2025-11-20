@@ -7,7 +7,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ---
 
-## 🧰 EQUIPMENTS REQUIRED
+## 🧰 EQUIPMENTS REQUIRED 
 - Power supply  
 - Patch chords  
 - 1-meter fiber optic cable  
