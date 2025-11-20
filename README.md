@@ -1,6 +1,6 @@
 
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
-# Fiber Optic LED Characteristics and Photo Detector Response
+# Fiber Optic LED Characteristics and Photo Detector Response 
 
 ## 🎯 AIM
 To study the characteristics of fiber optic LED and plot the graph of forward current versus optical power, and to study the photo detector response.
